@@ -1,0 +1,6 @@
+{
+  "name": "QuickTown Delivery",
+  "description": "A hyper-local fast delivery e-commerce application designed for small towns with simple layouts, multilingual AI voice search, and detailed order tracking, plus a master admin dispatch dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
